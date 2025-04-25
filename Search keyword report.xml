@@ -1,0 +1,525 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<report>
+	<report-name>Search keyword report</report-name>
+	<date-range>All time</date-range>
+	<table>
+		<row>
+			<cell>
+				<key>Keyword status</key>
+				<value>Enabled</value>
+			</cell>
+			<cell>
+				<key>Keyword</key>
+				<value>[dogg care]</value>
+			</cell>
+			<cell>
+				<key>Match type</key>
+				<value>Exact match</value>
+			</cell>
+			<cell>
+				<key>Ad group</key>
+				<value>Ad group 1</value>
+			</cell>
+			<cell>
+				<key>Status</key>
+				<value>Eligible</value>
+			</cell>
+			<cell>
+				<key>Status reasons</key>
+				<value></value>
+			</cell>
+			<cell>
+				<key>Currency code</key>
+				<value>PKR</value>
+			</cell>
+			<cell>
+				<key>Max. CPC</key>
+				<value>2.00</value>
+			</cell>
+			<cell>
+				<key>Final URL</key>
+				<value></value>
+			</cell>
+			<cell>
+				<key>Mobile final URL</key>
+				<value></value>
+			</cell>
+			<cell>
+				<key>Clicks</key>
+				<value>0</value>
+			</cell>
+			<cell>
+				<key>Impr.</key>
+				<value>0</value>
+			</cell>
+			<cell>
+				<key>CTR</key>
+				<value>--</value>
+			</cell>
+			<cell>
+				<key>Avg. CPC</key>
+				<value>0</value>
+			</cell>
+			<cell>
+				<key>Cost</key>
+				<value>0.00</value>
+			</cell>
+			<cell>
+				<key>Conv. rate</key>
+				<value>0.00%</value>
+			</cell>
+			<cell>
+				<key>Conversions</key>
+				<value>0.00</value>
+			</cell>
+			<cell>
+				<key>Cost / conv.</key>
+				<value>0.00</value>
+			</cell>
+		</row>
+		<row>
+			<cell>
+				<key>Keyword status</key>
+				<value>Enabled</value>
+			</cell>
+			<cell>
+				<key>Keyword</key>
+				<value>[dog care]</value>
+			</cell>
+			<cell>
+				<key>Match type</key>
+				<value>Exact match</value>
+			</cell>
+			<cell>
+				<key>Ad group</key>
+				<value>Ad group 1</value>
+			</cell>
+			<cell>
+				<key>Status</key>
+				<value>Eligible</value>
+			</cell>
+			<cell>
+				<key>Status reasons</key>
+				<value></value>
+			</cell>
+			<cell>
+				<key>Currency code</key>
+				<value>PKR</value>
+			</cell>
+			<cell>
+				<key>Max. CPC</key>
+				<value>2.00</value>
+			</cell>
+			<cell>
+				<key>Final URL</key>
+				<value></value>
+			</cell>
+			<cell>
+				<key>Mobile final URL</key>
+				<value></value>
+			</cell>
+			<cell>
+				<key>Clicks</key>
+				<value>0</value>
+			</cell>
+			<cell>
+				<key>Impr.</key>
+				<value>0</value>
+			</cell>
+			<cell>
+				<key>CTR</key>
+				<value>--</value>
+			</cell>
+			<cell>
+				<key>Avg. CPC</key>
+				<value>0</value>
+			</cell>
+			<cell>
+				<key>Cost</key>
+				<value>0.00</value>
+			</cell>
+			<cell>
+				<key>Conv. rate</key>
+				<value>0.00%</value>
+			</cell>
+			<cell>
+				<key>Conversions</key>
+				<value>0.00</value>
+			</cell>
+			<cell>
+				<key>Cost / conv.</key>
+				<value>0.00</value>
+			</cell>
+		</row>
+		<row>
+			<cell>
+				<key>Keyword status</key>
+				<value>Enabled</value>
+			</cell>
+			<cell>
+				<key>Keyword</key>
+				<value>[dogcare]</value>
+			</cell>
+			<cell>
+				<key>Match type</key>
+				<value>Exact match</value>
+			</cell>
+			<cell>
+				<key>Ad group</key>
+				<value>Ad group 1</value>
+			</cell>
+			<cell>
+				<key>Status</key>
+				<value>Eligible</value>
+			</cell>
+			<cell>
+				<key>Status reasons</key>
+				<value></value>
+			</cell>
+			<cell>
+				<key>Currency code</key>
+				<value>PKR</value>
+			</cell>
+			<cell>
+				<key>Max. CPC</key>
+				<value>2.00</value>
+			</cell>
+			<cell>
+				<key>Final URL</key>
+				<value></value>
+			</cell>
+			<cell>
+				<key>Mobile final URL</key>
+				<value></value>
+			</cell>
+			<cell>
+				<key>Clicks</key>
+				<value>0</value>
+			</cell>
+			<cell>
+				<key>Impr.</key>
+				<value>0</value>
+			</cell>
+			<cell>
+				<key>CTR</key>
+				<value>--</value>
+			</cell>
+			<cell>
+				<key>Avg. CPC</key>
+				<value>0</value>
+			</cell>
+			<cell>
+				<key>Cost</key>
+				<value>0.00</value>
+			</cell>
+			<cell>
+				<key>Conv. rate</key>
+				<value>0.00%</value>
+			</cell>
+			<cell>
+				<key>Conversions</key>
+				<value>0.00</value>
+			</cell>
+			<cell>
+				<key>Cost / conv.</key>
+				<value>0.00</value>
+			</cell>
+		</row>
+		<row>
+			<cell>
+				<key>Keyword status</key>
+				<value>Enabled</value>
+			</cell>
+			<cell>
+				<key>Keyword</key>
+				<value>[doggy care]</value>
+			</cell>
+			<cell>
+				<key>Match type</key>
+				<value>Exact match</value>
+			</cell>
+			<cell>
+				<key>Ad group</key>
+				<value>Ad group 1</value>
+			</cell>
+			<cell>
+				<key>Status</key>
+				<value>Eligible</value>
+			</cell>
+			<cell>
+				<key>Status reasons</key>
+				<value></value>
+			</cell>
+			<cell>
+				<key>Currency code</key>
+				<value>PKR</value>
+			</cell>
+			<cell>
+				<key>Max. CPC</key>
+				<value>2.00</value>
+			</cell>
+			<cell>
+				<key>Final URL</key>
+				<value></value>
+			</cell>
+			<cell>
+				<key>Mobile final URL</key>
+				<value></value>
+			</cell>
+			<cell>
+				<key>Clicks</key>
+				<value>0</value>
+			</cell>
+			<cell>
+				<key>Impr.</key>
+				<value>0</value>
+			</cell>
+			<cell>
+				<key>CTR</key>
+				<value>--</value>
+			</cell>
+			<cell>
+				<key>Avg. CPC</key>
+				<value>0</value>
+			</cell>
+			<cell>
+				<key>Cost</key>
+				<value>0.00</value>
+			</cell>
+			<cell>
+				<key>Conv. rate</key>
+				<value>0.00%</value>
+			</cell>
+			<cell>
+				<key>Conversions</key>
+				<value>0.00</value>
+			</cell>
+			<cell>
+				<key>Cost / conv.</key>
+				<value>0.00</value>
+			</cell>
+		</row>
+		<row>
+			<cell>
+				<key>Keyword status</key>
+				<value>Enabled</value>
+			</cell>
+			<cell>
+				<key>Keyword</key>
+				<value>[care dog]</value>
+			</cell>
+			<cell>
+				<key>Match type</key>
+				<value>Exact match</value>
+			</cell>
+			<cell>
+				<key>Ad group</key>
+				<value>Ad group 1</value>
+			</cell>
+			<cell>
+				<key>Status</key>
+				<value>Eligible</value>
+			</cell>
+			<cell>
+				<key>Status reasons</key>
+				<value></value>
+			</cell>
+			<cell>
+				<key>Currency code</key>
+				<value>PKR</value>
+			</cell>
+			<cell>
+				<key>Max. CPC</key>
+				<value>2.00</value>
+			</cell>
+			<cell>
+				<key>Final URL</key>
+				<value></value>
+			</cell>
+			<cell>
+				<key>Mobile final URL</key>
+				<value></value>
+			</cell>
+			<cell>
+				<key>Clicks</key>
+				<value>0</value>
+			</cell>
+			<cell>
+				<key>Impr.</key>
+				<value>0</value>
+			</cell>
+			<cell>
+				<key>CTR</key>
+				<value>--</value>
+			</cell>
+			<cell>
+				<key>Avg. CPC</key>
+				<value>0</value>
+			</cell>
+			<cell>
+				<key>Cost</key>
+				<value>0.00</value>
+			</cell>
+			<cell>
+				<key>Conv. rate</key>
+				<value>0.00%</value>
+			</cell>
+			<cell>
+				<key>Conversions</key>
+				<value>0.00</value>
+			</cell>
+			<cell>
+				<key>Cost / conv.</key>
+				<value>0.00</value>
+			</cell>
+		</row>
+		<summary-row>
+			<cell>
+				<key>Keyword status</key>
+				<value></value>
+			</cell>
+			<cell>
+				<key>Keyword</key>
+				<value></value>
+			</cell>
+			<cell>
+				<key>Match type</key>
+				<value>Total: All but removed keywords</value>
+			</cell>
+			<cell>
+				<key>Ad group</key>
+				<value></value>
+			</cell>
+			<cell>
+				<key>Status</key>
+				<value></value>
+			</cell>
+			<cell>
+				<key>Status reasons</key>
+				<value></value>
+			</cell>
+			<cell>
+				<key>Currency code</key>
+				<value>PKR</value>
+			</cell>
+			<cell>
+				<key>Max. CPC</key>
+				<value></value>
+			</cell>
+			<cell>
+				<key>Final URL</key>
+				<value></value>
+			</cell>
+			<cell>
+				<key>Mobile final URL</key>
+				<value></value>
+			</cell>
+			<cell>
+				<key>Clicks</key>
+				<value>0</value>
+			</cell>
+			<cell>
+				<key>Impr.</key>
+				<value>0</value>
+			</cell>
+			<cell>
+				<key>CTR</key>
+				<value>--</value>
+			</cell>
+			<cell>
+				<key>Avg. CPC</key>
+				<value>0</value>
+			</cell>
+			<cell>
+				<key>Cost</key>
+				<value>0.00</value>
+			</cell>
+			<cell>
+				<key>Conv. rate</key>
+				<value>0.00%</value>
+			</cell>
+			<cell>
+				<key>Conversions</key>
+				<value>0.00</value>
+			</cell>
+			<cell>
+				<key>Cost / conv.</key>
+				<value>0.00</value>
+			</cell>
+		</summary-row>
+		<summary-row>
+			<cell>
+				<key>Keyword status</key>
+				<value></value>
+			</cell>
+			<cell>
+				<key>Keyword</key>
+				<value></value>
+			</cell>
+			<cell>
+				<key>Match type</key>
+				<value>Total: Campaign</value>
+			</cell>
+			<cell>
+				<key>Ad group</key>
+				<value></value>
+			</cell>
+			<cell>
+				<key>Status</key>
+				<value></value>
+			</cell>
+			<cell>
+				<key>Status reasons</key>
+				<value></value>
+			</cell>
+			<cell>
+				<key>Currency code</key>
+				<value>PKR</value>
+			</cell>
+			<cell>
+				<key>Max. CPC</key>
+				<value></value>
+			</cell>
+			<cell>
+				<key>Final URL</key>
+				<value></value>
+			</cell>
+			<cell>
+				<key>Mobile final URL</key>
+				<value></value>
+			</cell>
+			<cell>
+				<key>Clicks</key>
+				<value>0</value>
+			</cell>
+			<cell>
+				<key>Impr.</key>
+				<value>0</value>
+			</cell>
+			<cell>
+				<key>CTR</key>
+				<value>--</value>
+			</cell>
+			<cell>
+				<key>Avg. CPC</key>
+				<value>0</value>
+			</cell>
+			<cell>
+				<key>Cost</key>
+				<value>0.00</value>
+			</cell>
+			<cell>
+				<key>Conv. rate</key>
+				<value>0.00%</value>
+			</cell>
+			<cell>
+				<key>Conversions</key>
+				<value>0.00</value>
+			</cell>
+			<cell>
+				<key>Cost / conv.</key>
+				<value>0.00</value>
+			</cell>
+		</summary-row>
+	</table>
+</report>
