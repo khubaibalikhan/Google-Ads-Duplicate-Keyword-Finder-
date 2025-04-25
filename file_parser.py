@@ -2,13 +2,25 @@ import pandas as pd
 from docx import Document
 
 def parse_file(file, filetype):
-    if filetype == 'csv':
+    filetype = filetype.lower()
+    
+    # CSV
+    if filetype in ['csv']:
         return pd.read_csv(file)
-    elif filetype == 'docx':
-        doc = Document(file)  # Loading the Word file
-        data = []
-        for table in doc.tables:
-            for row in table.rows:
-                data.append([cell.text.strip() for cell in row.cells])
-        return pd.DataFrame(data[1:], columns=data[0])
+    
+    # TSV (Tab-separated values)
+    elif filetype == 'tsv':
+        return pd.read_csv(file, sep='\t')
+    
+    # XLSX (Excel files)
+    elif filetype == 'xlsx':
+        return pd.read_excel(file)
+    
+    # XML (XML files)
+    elif filetype == 'xml':
+        return pd.read_xml(file)
+    
 
+    # Unsupported file type
+    else:
+        raise ValueError(f"Unsupported file type: {filetype}")
