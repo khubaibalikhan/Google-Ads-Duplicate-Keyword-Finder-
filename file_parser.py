@@ -8,10 +8,6 @@ def parse_file(file, filetype):
     if filetype in ['csv']:
         return pd.read_csv(file)
     
-    # TSV (Tab-separated values)
-    elif filetype == 'tsv':
-        return pd.read_csv(file, sep='\t')
-    
     # XLSX (Excel files)
     elif filetype == 'xlsx':
         return pd.read_excel(file)
